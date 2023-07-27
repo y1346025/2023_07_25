@@ -1,0 +1,1 @@
+print("chihuahua maomao I'm ready")
